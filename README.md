@@ -1,5 +1,5 @@
 # 2021_Sample-Frame-for-the-population-over-18-years-in-Chile
-[Python | Document scraping | Decrypting | Programming]
+`[Python | Document scraping | Decrypting | Programming]`
 
 Welcome to the "Sample Frame for the Population over 18 Years in Chile" repository! This project showcases the development of a programming software solution in Python, leveraging document scraping, decrypting, and programming techniques. The main objective was to transform 346 large PDF documents into CSV format and construct a comprehensive Sample Frame containing information on 15 million Chilean individuals. This project played a vital role in ensuring a reliable and trustworthy pool for the sampling process, becoming one of the most crucial projects for the company following the pandemic.
 
@@ -14,7 +14,7 @@ In this project, I have developed a robust software solution using Python and im
 
 ## Privacy Statement:
 
-Due to the sensitive nature of the information contained within the PDF documents and the fact that it is a private project, the repository does not include the complete source code.
+Due to the sensitive nature of the information contained within the PDF documents and the fact that it is a private project, the repository does not include the complete source code. Also, the first version of this project was 2021, but the repository shows the content of 2023 due privacy content of the documents.
 
 ## How to Explore:
 
